@@ -1,4 +1,4 @@
-# 참고문헌 메타 추출 데이터(Extraction data from Reference metadata)
+# 참고문헌 메타 추출 데이터(Extraction data from reference metadata)
 
 ## Outline
 - The corpus for extracting metadata from multilingual journal references.
