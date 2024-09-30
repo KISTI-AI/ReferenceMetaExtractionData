@@ -18,3 +18,7 @@ In the files, each reference is separated by a newline character. In each first 
 
 ##  Data download
 http://doi.org/10.23057/47
+
+## Licence
+CC BY-NC
+<br>(Copyright Holder : Korea Institute of Science and Technology Information)
