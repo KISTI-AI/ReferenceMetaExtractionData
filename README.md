@@ -10,51 +10,8 @@ In the files, each reference is separated by a newline character. In each first 
 
 ## Data format(TXT)
 - CoNLL 2002 Format, https://paperswithcode.com/dataset/conll-2002
+![docimage4](https://github.com/user-attachments/assets/4715824c-c4d4-4456-bb63-7652f0fe13ce)
 
-"""
-Jou B-AUT
-, I-AUT
-<sp> I-AUT
-J I-AUT
-. I-AUT
-<sp> I-AUT
-H I-AUT
-. I-AUT
-<sp> I-AUT
-et I-AUT
-<sp> I-AUT
-al I-AUT
-. O
-<sp> O
-Plant B-TIT
-<sp> I-TIT
-growth I-TIT
-<sp> I-TIT
-absorption I-TIT
-<sp> I-TIT
-spectrum I-TIT
-<sp> I-TIT
-mimicking I-TIT
-<sp> I-TIT
-light I-TIT
-<sp> I-TIT
-sources I-TIT
-. O
-<sp> O
-Materials B-JOU
-<sp> O
-8 B-VOL
-, O
-<sp> O
-5265 B-PAGE
-- I-PAGE
-5275 I-PAGE
-<sp> O
-( O
-2015 B-YEAR
-) O
-. O
-"""
 
 ## Data statistics
 - Number of labeled references: 3,815,987
