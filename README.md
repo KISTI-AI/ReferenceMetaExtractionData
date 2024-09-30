@@ -10,8 +10,8 @@ In the files, each reference is separated by a newline character. In each first 
 
 ## Data format(TXT)
 - CoNLL 2002 Format, https://paperswithcode.com/dataset/conll-2002
-![docimage4](https://github.com/user-attachments/assets/4715824c-c4d4-4456-bb63-7652f0fe13ce)
 
+![docimage4](https://github.com/user-attachments/assets/4715824c-c4d4-4456-bb63-7652f0fe13ce)
 
 ## Data statistics
 - Number of labeled references: 3,815,987
